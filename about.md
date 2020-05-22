@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a graduate student at NCSU in the online Masters of Statistics program.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently taking ST 558 - Data Science for Statisticians
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jlspeer2@ncsu.edu](mailto:jlspeer2@ncsu.edu)
