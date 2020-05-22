@@ -8,7 +8,7 @@ I am a graduate student at NCSU in the online Masters of Statistics program.
 
 ### More Information
 
-Currently taking **ST 558***Data Science for Statisticians*
+Currently taking **ST 558** *Data Science for Statisticians*
 
 ### Contact me
 
